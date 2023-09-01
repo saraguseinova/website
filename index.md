@@ -2,8 +2,13 @@
 title: 
 ---
 
-I have been working as an English teacher for 3 years. Teaching is my passion. I'm native Russian speaker. 
-I also teach Russian as a foreign language.
+I have been working as an English teacher for 3 years. 
+
+Teaching is my passion. 
+
+<!--### 
+I'm native Russian speaker. I also teach Russian as a foreign language. 
+-->
 - My youngest student was 5 years old.
 - My oldest student was 65 y.o.
   
