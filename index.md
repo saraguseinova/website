@@ -26,4 +26,7 @@ International experience with students from different countries: Australia, Indi
 * Telegram: [send message](https://t.me/msprincesssara)
 * Email: [send email](mailto:s.guseinova97@gmail.com)
 
+### Public activity
+* Online education for kids - [Scholarium III Conference](https://scholarium.kz/) - 29-30 July 2024
+
 
